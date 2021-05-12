@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @CarolineDowns
 - 👀 I’m interested in Software Engineers using Cypress!
-- 🌱 I’m currently learning all about automated testing
-- 💞️ I’m looking to collaborate on all things Cypress!
 - 📫 How to reach me v-caroline@cypress.io
 
 <!---
